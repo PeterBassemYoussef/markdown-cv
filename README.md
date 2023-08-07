@@ -1,65 +1,50 @@
-# markdown-cv
+# Peter Bassem Youssef - Full-Stack Developer & Creative Mind
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+Welcome to my digital portfolio! I'm Peter Bassem Youssef, a passionate full-stack developer, creative designer, and technology enthusiast. With a degree in Computer & Information from Assiut University, I have over 7 years of experience in web development and design.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## About Me
 
-***
+As a full-stack developer, I specialize in PHP, WordPress, and Laravel, bringing beautiful and functional websites to life. I believe that websites are more than lines of code; they are pieces of art that deliver real business value.
 
-## Customization
+## Development Skills
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+- PHP, Zend framework
+- JavaScript, jQuery
+- ASP.NET
+- API
+- Object Oriented Programming (OOP) and MVC
+- WordPress and expert in WordPress Plugins
+- Three.js
+- Dash-Industry-Forum (dash.js)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## Designing Skills
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+- Adobe Photoshop
+- Adobe Illustrator
+- HTML, HTML5
+- CSS, CSS3, Bootstrap
+- Responsive design
+- Google Analytics
+- Search Engine Optimization (SEO)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## System Administration Skills
 
-adding your skills, jobs and education.
+- Web servers: Apache, Nginx, php-fpm, SSL certificate
+- Mail service: Exim, Postfix
+- Database: MySQL, phpMyAdmin, SQL
+- Linux: Red Hat, Centos, Fedora
+- cPanel, Plesk
+- Caching servers: Redis, APC
+- FTP, SSH
+- Git, GitHub, GitLab
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+## Let's Collaborate
 
-## Distribution
+I'm always eager to take on new challenges and opportunities to expand my skills. Let's connect and discuss how I can bring your web development projects to life with high-quality work and quick turnarounds.
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+Feel free to reach out and let's create something amazing together!
 
-### I. Use Github Pages to publish it online
+[LinkedIn](https://www.linkedin.com/in/peterkostandy)  
+[DEV](https://dev.to/peterbassemkostandy)  
+[Twitter](https://twitter.com/petobarkar)  
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-### II. Build it locally and print a PDF
-
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
