@@ -1,16 +1,23 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  <link rel="icon" href="media/favicon.ico" type="image/x-icon" />
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+
 </head>
+
 <body>
   <div id="main">
     <div id="content">
-    {{ content }}
+      {{ content }}
     </div>
   </div>
+
+  <script src="https://kit.fontawesome.com/abbddece18.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
