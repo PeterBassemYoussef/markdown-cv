@@ -71,9 +71,9 @@ __Freelance Full-stack Web Developer__, Independent Contractor, Germany
 - • Multilingual Web Design and Development, Branding and Visual Identity, Responsive Design, SEO Optimization, End-to-End Deployment.
 - • Featured Web Development Projects:
   <a href="https://ja-bro.de/">J&A BRO</a>
-  <a href="https://greencaresachsen.de/">GreenCare Sachsen</a>
-  <a href="https://kaisercable.de/">KAISER Cable</a>
-  <a href="https://capitanbau.de/">CAPITAN TROCKENBAU</a>
+   · <a href="https://greencaresachsen.de/">GreenCare Sachsen</a>
+   · <a href="https://kaisercable.de/">KAISER Cable</a>
+   · <a href="https://capitanbau.de/">CAPITAN TROCKENBAU</a>
 
 __Technical Skills__: HTML · HTM5 · CSS · JavaScript · jQuery · Bootstrap v5.0 · PHP · GIT · cPanel · SEO
 
